@@ -81,9 +81,9 @@ Several independent Options: Master, Release and Manual.
 
 ##### A. Using Luarocks 
  1. Install from master( last code, but more prone to errors.. )
-    * `luarocks build  https://raw.githubusercontent.com/tuxd3v/ats/master/ats-master-0.rockspec`
+    * `luarocks build  https://raw.githubusercontent.com/chippey5/ats/master/ats-master-0.rockspec`
  3. Install by release, check in Releases tab( ie: v0.2.0 ):
-    * `luarocks build  https://raw.githubusercontent.com/tuxd3v/ats/master/ats-0.2-0.rockspec`
+    * `luarocks build  https://raw.githubusercontent.com/chippey5/ats/master/ats-0.2-0.rockspec`
  3. Remove using LuaRocks
     * `luarocks remove ats`
 
